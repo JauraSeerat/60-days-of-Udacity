@@ -5,3 +5,4 @@ description about daily activities in scholarship challenge
 * Participated in Boom with Basic. It was a lot of fun
 * Implemented style transfer. It took approximately 3 and half hour.
 * Garbage collection and Common errors in Federated Learning
+![style transfer](https://github.com/JauraSeerat/60-days-of-Udacity/blob/master/st.png)
